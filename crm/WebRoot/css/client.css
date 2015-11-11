@@ -1,0 +1,46 @@
+/* CSS Document */
+.btn{
+	padding:0px;
+	}
+.table tr th{
+	text-align:center;
+	}
+.table tr td{
+	text-align:center;
+	}
+.bottomTable{
+	margin-top:-15px;
+}
+.intext{
+	float:left;
+	margin-left:10px;
+}
+.lab{
+	float:left;
+	width:100px;
+	text-align:right;
+}
+.inp{
+	border-top:hidden;
+	border-left:hidden;
+	border-right:hidden;
+	border-bottom-style:ridge;
+}
+.inparea,.inpaddress{
+	width:300px;
+}
+.subbtn{
+	margin-left:110px;
+}
+textarea{		
+	width:300px;
+}
+fieldset{
+	margin-top:10px;   
+}
+.pagination{			/*page页*/
+	margin-top:-15px;
+}
+#hiddenarea{
+	display:none; 
+}

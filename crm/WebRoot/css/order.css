@@ -1,0 +1,56 @@
+/* CSS Document */
+.button button{
+	 font-size:15px;
+	 margin-left: 400px;
+}
+.baner{
+	padding:5px;
+	height:40px;
+	text-align:center;
+}
+.baner div{
+	float:left;
+	with:50px;
+	height:100%;
+	
+	margin-left:10px;
+}
+
+.cp,.odnum{
+ text-align:center;
+ padding:2px;
+ 
+}
+.baner .adbutton{
+	float:left;
+	margin-left: 200px;
+}
+#addsale table td{
+	height:10px;
+}
+.saleel input {
+   	width:70%;
+   	float:left;
+   	margin-left:0;
+}
+.fbb{
+	width:20%;
+	float:left;
+}
+
+}
+.btt{
+	float:left;
+	width:10%;
+}
+
+#save{
+    clear:both;	
+	width:50px;
+	margin-left:400px;
+}
+#isdelete{
+    color:red;
+    font-size: 20px;
+}
+
